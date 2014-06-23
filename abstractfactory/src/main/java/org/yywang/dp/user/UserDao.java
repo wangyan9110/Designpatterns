@@ -1,8 +1,5 @@
 package org.yywang.dp.user;
 
-/**
- *
- */
 public interface UserDao {
 
     void insert(User user);
