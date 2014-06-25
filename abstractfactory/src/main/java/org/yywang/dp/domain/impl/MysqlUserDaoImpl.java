@@ -1,7 +1,7 @@
-package org.yywang.dp.user.impl;
+package org.yywang.dp.domain.impl;
 
-import org.yywang.dp.user.User;
-import org.yywang.dp.user.UserDao;
+import org.yywang.dp.domain.User;
+import org.yywang.dp.domain.UserDao;
 
 
 public class MysqlUserDaoImpl implements UserDao {

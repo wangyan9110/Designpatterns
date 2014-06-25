@@ -1,4 +1,4 @@
-package org.yywang.dp.user;
+package org.yywang.dp.domain;
 
 
 public class User {

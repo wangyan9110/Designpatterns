@@ -17,6 +17,7 @@
   <modules>
     <module>abstractfactory</module>
     <module>builder</module>
+    <module>factorymethod</module>
   </modules>
 
   <dependencies>

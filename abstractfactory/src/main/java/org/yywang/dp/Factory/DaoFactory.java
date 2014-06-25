@@ -1,9 +1,12 @@
-package org.yywang.dp.Factory;
+package org.yywang.dp.factory;
 
 
-import org.yywang.dp.user.UserDao;
+import org.yywang.dp.domain.GradeDao;
+import org.yywang.dp.domain.UserDao;
 
 public interface DaoFactory {
 
-    UserDao create();
+    UserDao createUserDao();
+
+    GradeDao createGradeDao();
 }
