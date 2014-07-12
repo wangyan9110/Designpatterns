@@ -7,9 +7,9 @@
     <artifactId>dp-root</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <package>jar</package>
   <version>${project.version}</version>
-  <name>prototype</name>
+  <package>jar</package>
+  <name>singleton</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
