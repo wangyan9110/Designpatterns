@@ -7,8 +7,9 @@
     <artifactId>dp-root</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
+  <artifactId>adapter</artifactId>
   <packaging>jar</packaging>
-  <artifactId>prototype</artifactId>
+  <name>adapter</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
